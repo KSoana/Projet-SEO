@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ksoana.github.io/newcalove/sitemap.xml
